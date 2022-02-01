@@ -44,7 +44,7 @@ Practice, hardwork, dedication and smartwork is the key to everyone's successðŸ˜
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tauhidalamx&hide_border=true&theme=radical" width="47%" height="160px" style="margin-top:40px"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Khandelwal-007&layout=compact&theme=dracula" width="47%" height="160px" style="margin-top:40px"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhidalamx&layout=compact&theme=dracula" width="47%" height="160px" style="margin-top:40px"/>
 <img src="https://activity-graph.herokuapp.com/graph?username=tauhidalamx&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" style="margin-top:40px"/>
 
 ---
