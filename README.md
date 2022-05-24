@@ -1,39 +1,3 @@
-### Hi there 👋
-
-<!--
-**tauhidalamx/tauhidalamx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# [I'm Tauhid Alam!](https://www.linkedin.com/in/tauhid-alam-1141b1113/) &nbsp; &nbsp;
-![Visitor Count](https://profile-counter.glitch.me/{tauhidalamx}/count.svg)
-
-## So. This is me🥱 💁‍♂️ 
-
-
-Pre Final Year Student pursuing Bachelors in Information Technology 🎓 from Indian Institute of Information Technology Allahabad 🏛 who is an ardent learner, a passionate developer🖥️,competative coder💡 and a great admirer of nature in the quest to dig interesting algorithms and patterns inspired by nature🌿. Have a keen interest in the latest and upcoming technologies👨‍💻 , cyber security🕸️  and their impact in our daily lives🤓.
-
-Currently practising/learning........
-
-Practice, hardwork, dedication and smartwork is the key to everyone's success😇.
-
-
-### Talking about Personal Stuffs:
-- 🛠 I’m currently trying to contribute to Open Sources.
-- 🎮 I love to play with CSS.
-- 📖 Try to learn out of all.
-- 📷 A vivid landscape wakes up photographer in me.
-- 👾 All of my projects are available on Github.
-- 📫 How to reach me: tawhidhussein@gmail.com
 
 ---
 
@@ -94,7 +58,7 @@ Practice, hardwork, dedication and smartwork is the key to everyone's success�
 
 [linkedin]:https://www.linkedin.com/in/tauhid-alam-1141b1113/
 [github]:https://github.com/tawhidalamx/
-[instagram]:https://www.instagram.com/tauhid__alam__/
+[instagram]:https://www.instagram.com/tauhid_o7/
 [facebook]:https://www.facebook.com/tawhidhussein
 
 ---
