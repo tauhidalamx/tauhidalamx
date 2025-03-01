@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> (مرحبا، شكرا لك) A-salamo alaikum ()🙏🏻, I'm Tauhid Alam Ansari! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  A-salamo alaikum ()🙏🏻, I'm Tauhid Alam Ansari! (مرحبا، شكرا لك) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">[![](https://github.com)](https://my.visme.co/preview/vdzqeqd3-data-analysis-intro?isPreview=1&t=47d81b1062cf12125a5f760e821f855a#s1)
 
