@@ -12,10 +12,10 @@
   <a href="https://komarev.com/ghpvc/?username=tauhidalamx&label=Profile%20Views&color=0e75b6&style=flat-square">
     <img src="https://komarev.com/ghpvc/?username=tauhidalamx&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </a>
-  <a href="https://linkedin.com/in/tauhidalam">
+  <a href="https://linkedin.com/in/7tauhidalam">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/tauhidalam">
+  <a href="https://twitter.com/tauhidalamx">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://github.com/tauhidalamx">
